@@ -8,7 +8,7 @@
 
 ### Решение:
 
-![Elasticsearch](https://github.com/Stvrrow/sdb-hw-03/blob/main/img/img1.png)
+![Elasticsearch](https://github.com/Stvrrow/sdb-hw-03/blob/master/img/img1.png)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### Решение:
 
-![Kibana](https://github.com/Stvrrow/sdb-hw-03/blob/main/img/img2.png)
+![Kibana](https://github.com/Stvrrow/sdb-hw-03/blob/master/img/img2.png)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### Решение:
 
-![Logstash](https://github.com/Stvrrow/sdb-hw-03/blob/main/img/img3.png)
+![Logstash](https://github.com/Stvrrow/sdb-hw-03/blob/master/img/img3.png)
 
 ---
 
@@ -44,5 +44,5 @@
 
 ### Решение:
 
-![Filebeat](https://github.com/Stvrrow/sdb-hw-03/blob/main/img/img4.png)
+![Filebeat](https://github.com/Stvrrow/sdb-hw-03/blob/master/img/img4.png)
 
